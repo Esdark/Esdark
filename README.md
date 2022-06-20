@@ -1,11 +1,9 @@
-[![MasterHead](https://i.ibb.co/XVKKFF5/banner.png)](https://github.com/Esdark)
+[![MasterHead](https://i.ibb.co/CWYYVV9/banner.png)](https://github.com/Esdark)
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esdark&label=Profile%20views&color=0e75b6&style=flat" alt="esdark" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esdark" alt="esdark" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mohanesharjun" target="blank"><img src="https://img.shields.io/twitter/follow/mohanesharjun?logo=twitter&style=for-the-badge" alt="mohanesharjun" /></a> </p>
 
@@ -34,6 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esdark&show_icons=true&locale=en&layout=compact" alt="esdark" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esdark&show_icons=true&locale=en" alt="esdark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esdark&show_icons=true&theme=merko&title_color=001eff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="esdark" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esdark&" alt="esdark" /></p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=107e0m8e3unomnsqcx9tevjpt)
