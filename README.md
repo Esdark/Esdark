@@ -41,13 +41,13 @@
 <br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Esdark&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"  /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esdark&theme=midnight-purple&hide_border=false"  /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdark&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Esdark&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"  /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Esdark&theme=midnight-purple&hide_border=false"  /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdark&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  /></p>
 
 
 ## 🏆 GitHub Trophies
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Esdark&theme=dracula&no-frame=false&no-bg=false&margin-w=4"  /></p>
+<p><img align="right" src="https://github-profile-trophy.vercel.app/?username=Esdark&theme=dracula&no-frame=false&no-bg=false&margin-w=4"  /></p>
 
 
 
