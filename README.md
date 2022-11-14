@@ -46,14 +46,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdark&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  />
 </div>
 
-
+<br>
 
 
 ## 🏆 GitHub Trophies
-<p><img align="right" src="https://github-profile-trophy.vercel.app/?username=Esdark&theme=dracula&no-frame=false&no-bg=false&margin-w=4"  /></p>
+<div align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Esdark&theme=dracula&no-frame=false&no-bg=false&margin-w=4"  /></div>
 
 
 
 
 ## <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> Spotify
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=107e0m8e3unomnsqcx9tevjpt)
+<div align="center"><img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=107e0m8e3unomnsqcx9tevjpt"  /></div>
+
