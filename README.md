@@ -14,7 +14,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Larvel and React**
+- 🌱 I'm in constant learning (currently learning **Larvel and React**)
 
 - 💬 Ask me about **sass, Bootstrap, JavaScript**
 
