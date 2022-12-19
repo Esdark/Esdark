@@ -8,9 +8,9 @@
 </p>
 
 
-## <picture><img src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width = 70px></picture> ABOUT ME
+## <picture><img src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width = 50px></picture> ABOUT ME
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 500px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 <br>
 
