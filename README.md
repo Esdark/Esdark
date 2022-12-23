@@ -1,11 +1,13 @@
 [![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/Esdark)
-<h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px">, I'm Arjun</h1>
+<h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px">, I'm Arjun  </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-22-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-FullStack%20Developer-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-INDIA-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%20Hindi%20%20Malayalm-brightgreen" />
 </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d860289b-36e5-4d31-a639-8bc1a03fda42/deploy-status)](https://app.netlify.com/sites/transcendent-unicorn-16a47e/deploys)
 
 
 ## <picture><img src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width = 50px></picture> ABOUT ME
