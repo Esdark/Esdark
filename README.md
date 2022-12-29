@@ -10,9 +10,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d860289b-36e5-4d31-a639-8bc1a03fda42/deploy-status)](https://app.netlify.com/sites/transcendent-unicorn-16a47e/deploys)
 
 
-## <picture><img src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width = 50px></picture> ABOUT ME
+## <picture><img src="https://media.giphy.com/media/p24eXCCoxY1ddlhCM1/giphy.gif" width = 50px></picture> ABOUT ME
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width = 400px></picture>
 
 <br>
 
