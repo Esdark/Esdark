@@ -67,8 +67,11 @@
 </div>
 
 <br>
+## 💹 Github Activity Graph
 
+![Esdark github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Esdark)
 
+<br>
 ## 🏆 GitHub Trophies
 <div align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Esdark&theme=dracula&no-frame=false&no-bg=false&margin-w=4"  /></div>
 
