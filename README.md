@@ -1,5 +1,5 @@
 [![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://github.com/Esdark)
-<h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px">, I'm Arjun  </h1>
+<h1 align="center">Hi <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47wqa2zxwy2w1dbhtnwewv2ema6eojppe71m3qok8l&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px">, I'm Arjun  </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Age-23-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-FullStack%20Developer-brightgreen" />
