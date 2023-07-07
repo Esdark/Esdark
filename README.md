@@ -18,11 +18,11 @@
 
 - 🌱 I'm in constant learning (currently learning **Larvel and React**)
 
-- 💬 Ask me about **sass, Bootstrap, JavaScript**
+- 💬 Ask me about **Front-End, Back-End, Asynchronous Data**
 
 - 📫 How to reach me **arjunm295707@gmail.com**
 
-- ⚡ Fun fact **I'm Jack of all Trade**
+- ⚡ Fun fact **I'm Jack of all Trade But Master Of Javascript**
 
 <br><br>
 
