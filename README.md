@@ -7,10 +7,10 @@
   <img src="https://img.shields.io/badge/Languages-English%20%20Hindi%20%20Malayalm-brightgreen" />
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d860289b-36e5-4d31-a639-8bc1a03fda42/deploy-status)](https://app.netlify.com/sites/transcendent-unicorn-16a47e/deploys)
 
 
-## <picture><img src="https://media.giphy.com/media/p24eXCCoxY1ddlhCM1/giphy.gif" width = 50px></picture> ABOUT ME
+
+## <picture><img src="https://media0.giphy.com/media/p24eXCCoxY1ddlhCM1/giphy.gif" width = 50px></picture> ABOUT ME
 
 <picture> <img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width = 400px></picture>
 
