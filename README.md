@@ -75,7 +75,28 @@
 ## 🏆 GitHub Trophies
 <div align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Esdark&theme=dracula&no-frame=false&no-bg=false&margin-w=4"  /></div>
 
+<br>
+## Now Playing 🎧:
 
+<div align="center">
+  <a href="https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p" target="_blank">
+    <img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/>
+  </a>
+</div>
+<!-- [<img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p) -->
+
+## Connect with me:
+
+<p align="center">
+<a title="arjunm295707@gmail.com" href="mailto:arjunm295707@gmail.com" ><img align="center" src="https://img.icons8.com/dusk/64/null/mail-ru-agent.png" alt="arjunm295707@gmail.com" height="30" width="30" /></a>
+<a title="Instagram" href="https://www.instagram.com/itz_esdark/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_esdark" height="30" width="40" /></a>
+<a title="GitHub" href="https://github.com/Esdark" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Esdark" height="30" width="40" /></a>
+<a title="LinkedIn" href="https://www.linkedin.com/in/arjun-mohanesh" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-mohanesh" height="30" width="40" /></a>
+<a title="LeetCode" href="https://leetcode.com/esdark/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="esdark" height="30" width="40" /></a>
+<a title="Discord" href="https://discordapp.com/users/302309757174415360" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/302309757174415360" height="30" width="40" /></a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Esdark&label=Profile%20views&color=0e75b6&style=flat" alt="Esdark" /> </p>
 
 
 ## <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> Spotify
