@@ -57,33 +57,34 @@
 
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <br>
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Esdark&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"  />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esdark&theme=midnight-purple&hide_border=false"  />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esdark&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  />
+  <br>
 </div>
 
-<br>
-## 💹 Github Activity Graph
+
+# 💹Github Activity Graph:
 
 ![Esdark github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Esdark)
 
-<br>
-## 🏆 GitHub Trophies
+
+
+# 🏆GitHub Trophies:
 <div align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Esdark&theme=dracula&no-frame=false&no-bg=false&margin-w=4"  /></div>
 
-<br>
-## Now Playing 🎧:
+
+## 🎧 Now Playing:
 
 <div align="center">
-  <a href="https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p" target="_blank">
+  <a href="https://open.spotify.com/user/107e0m8e3unomnsqcx9tevjpt" target="_blank">
     <img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="450"/>
   </a>
 </div>
-<!-- [<img  align="center" src="https://spotify-now-playing-azure-three.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/gcv6nldu9d8pdd29lnuyzjc9p) -->
 
 ## Connect with me:
 
